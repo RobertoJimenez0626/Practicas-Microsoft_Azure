@@ -1,0 +1,4 @@
+az deployment group create \
+--name miPlantilla-P12 \
+--resource-group Practica12_Darki \
+--template-file azuredeploy.json
